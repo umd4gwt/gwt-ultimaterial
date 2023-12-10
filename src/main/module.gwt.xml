@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <!-- GWT stuffs -->
+    <!-- <inherits name="org.gwtproject.i18n.CLDR"/> -->
+    <!-- <inherits name="org.gwtproject.i18n.DateTimeFormat"/> -->
+    <!-- <inherits name="org.gwtproject.i18n.I18n"/> -->
+
+    <!-- Elemental2 stuffs -->
+    <inherits name="elemental2.core.Core"/>
+    <inherits name="elemental2.dom.Dom"/>
+    <inherits name="elemental2.promise.Promise"/>
+    <inherits name="elemental2.svg.Svg"/>
+    <inherits name="elemental2.webgl.WebGl"/>
+    <inherits name="elemental2.media.Media"/>
+    <inherits name="elemental2.webstorage.WebStorage"/>
+    <inherits name="elemental2.indexeddb.IndexedDb"/>
+
+    <!-- Elemento stuffs -->
+    <inherits name="org.jboss.elemento.Core"/>
+
+    <!-- Specify the paths for translatable code -->
+    <source path=""/>
+
+</module>
